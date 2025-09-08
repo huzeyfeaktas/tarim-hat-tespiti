@@ -8,7 +8,7 @@ Elde edilen bu veriler, aracın otonom yazılımında kullanılarak **hattı alg
 
 ## 🎥 Proje Çalışma Prensibi
 
-![Çalışma Örneği](./output.gif)
+![Çalışma Örneği](./output2.gif)
 
 1. Kamera görüntüsü alınır.  
 2. Görüntü işleme teknikleri (Canny, ROI maskesi, perspektif dönüşüm) kullanılarak ekim hattı belirlenir.  
